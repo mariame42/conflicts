@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    print("mariame42");
+    print("mariam");
 }
