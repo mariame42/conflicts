@@ -1,7 +1,12 @@
-#include "stdio.h"
+#include <stdio.h>
+
+void greet(const char *name)
+{
+    printf("hello, %s\n", name);
+}
 
 int main(void)
 {
-    print("vanya");
-    /* remote-ahead mark for Lattice file tree */
+    greet("vanya");
+    return 0;
 }
