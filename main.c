@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    print("mariam");
+    print("vanya");
     /* remote-ahead mark for Lattice file tree */
 }
